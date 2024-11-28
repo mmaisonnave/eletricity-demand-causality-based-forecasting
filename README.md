@@ -21,4 +21,4 @@ The source code in this repository is licensed under the MIT License - see the [
 We welcome contributions from the community. Please open an issue or submit a pull request for any improvements or suggestions.
 
 ## Acknowledgments
-This work was enabled by support provided by CONICET, Universidad Nacional del Sur (PGI-UNS 24/N051), and ANPCyT (PICT 2019-03944)
+This work was enabled by support provided by CONICET, Universidad Nacional del Sur (PGI-UNS 24/N051), and ANPCyT (PICT 2019-03944). We would also like to express our gratitude to CAMMESA for providing the dataset for this project.
