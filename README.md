@@ -1,10 +1,10 @@
 # Learning causality structures from electricity demand data
 
-![Contributors](https://img.shields.io/github/contributors/mmaisonnave/unplanned-hospital-readmission-prediction?style=plastic)
-![Forks](https://img.shields.io/github/forks/mmaisonnave/unplanned-hospital-readmission-prediction)
-![Stars](https://img.shields.io/github/stars/mmaisonnave/unplanned-hospital-readmission-prediction)
-![GitHub](https://img.shields.io/github/license/mmaisonnave/unplanned-hospital-readmission-prediction?style=round-square)
-![Issues](https://img.shields.io/github/issues/mmaisonnave/unplanned-hospital-readmission-prediction)
+![Contributors](https://img.shields.io/github/contributors/mmaisonnave/eletricity-demand-causality-based-forecasting?style=plastic)
+![Forks](https://img.shields.io/github/forks/mmaisonnave/eletricity-demand-causality-based-forecasting)
+![Stars](https://img.shields.io/github/stars/mmaisonnave/eletricity-demand-causality-based-forecasting)
+![GitHub](https://img.shields.io/github/license/mmaisonnave/eletricity-demand-causality-based-forecasting?style=round-square)
+![Issues](https://img.shields.io/github/issues/mmaisonnave/eletricity-demand-causality-based-forecasting)
 
 This repository holds the source code for all the experiments conducted for the publication *"[Learning Causality Structures from Electricity Demand Data](https://link.springer.com/article/10.1007/s12667-024-00684-6),"* featured in the journal *Energy Systems* in June 2024. The authors of the paper are Mariano Maisonnave, Fernando Delbianco, Fernando Tohmé, Evangelos Milios, and Ana Maguitman.
 
